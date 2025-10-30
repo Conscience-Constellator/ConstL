@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" packagePrefix="CC.ConstL" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="CC.COd" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/24.0.0/annotations-24.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="CC.NAm" />
+    <orderEntry type="module" module-name="CC.Physc.Colr" />
+    <orderEntry type="module" module-name="CC.Fun.V" />
+    <orderEntry type="module" module-name="CC.$.1$" />
+    <orderEntry type="module" module-name="CC.$.1$1.SAm" />
+    <orderEntry type="module" module-name="CC.$.1$1.$Bool" />
+    <orderEntry type="module" module-name="CC.$.3$1.SAm" />
+    <orderEntry type="module" module-name="CC.List.Util" />
+    <orderEntry type="module" module-name="CC.Prim" />
+    <orderEntry type="module" module-name="CC.TIm.UpdAt" />
+    <orderEntry type="module" module-name="CC.TXt" />
+    <orderEntry type="module" module-name="CC.List.Smal" />
+    <orderEntry type="module" module-name="CC.Point" />
+    <orderEntry type="module" module-name="CC.$.$1" />
+    <orderEntry type="module" module-name="CC.UI.ConsOl" />
+    <orderEntry type="module" module-name="CC.TIm" />
+    <orderEntry type="module" module-name="CC.$.1$1.$Int" />
+    <orderEntry type="module" module-name="CC.$.2$1.$Bool" />
+    <orderEntry type="module" module-name="CC.RL" />
+  </component>
+</module>
